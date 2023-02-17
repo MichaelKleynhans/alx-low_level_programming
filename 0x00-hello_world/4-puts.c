@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - Entry point of the program
  *
@@ -11,5 +10,3 @@ int main(void)
 
     return (0);
 }
-
-
